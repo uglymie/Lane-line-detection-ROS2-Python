@@ -1,5 +1,5 @@
 # Line-line-detection-ROS2
-借鉴优达学城（Udacity）无人驾驶工程师学位的第二个项目-车道线检测，（具体参考https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg）。
+借鉴优达学城（Udacity）无人驾驶工程师学位的第二个项目-车道线检测，（具体参考https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg）
 将其开发为一个ROS2功能包，ROS2版本为Foxy。
 
 
