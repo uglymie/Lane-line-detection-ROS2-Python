@@ -1,4 +1,4 @@
-# Line-line-detection-ROS2/Python
+# Line-line-detection-ROS2-Python
 借鉴优达学城（Udacity）[无人驾驶工程师学位的第二个项目-车道线检测](https://github.com/udacity/CarND-Advanced-Lane-Lines)
 将其开发为一个ROS2功能包，ROS2版本为Foxy，开发语言为Python。
 
